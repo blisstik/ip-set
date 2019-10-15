@@ -1,5 +1,6 @@
 ### WindowsSpyBlocker - Hosts extra rules
 ### Converted from DNS to IPv4
+### Source: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
 
 104.106.254.225
 104.116.252.224
